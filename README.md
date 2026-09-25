@@ -1,0 +1,2 @@
+# SmartTeachPen
+SmartTeachPen是一款适用于班级大屏的屏幕批注工具，可以帮助教师便捷的进行快速批注，提高课堂时长利用率。
