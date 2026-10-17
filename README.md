@@ -1,2 +1,33 @@
+[![Banner](https://raw.githubusercontent.com/HelloBang-Dev/SmartTeachPen/main/Assets/banner.png)](https://qun.qq.com/universal-share/share?ac=1&authKey=0s6HV%2BNEWZgB4idox%2FEctF9V0%2BYVFxLfD2w3pXKqtw3t86ydtF1Uj1osFYl0gA1m&busi_data=eyJncm91cENvZGUiOiIzNjM1MDc1MTAiLCJ0b2tlbiI6Ikd1U2JGeHlkRmNYamE2bG5WemhIUWFDY2JPWUV4eWs0VitianpPR2dZZDFOQ2FIVHltaFlwV1ppM2p4MWkyMDMiLCJ1aW4...)
 # SmartTeachPen
-SmartTeachPen是一款适用于班级大屏的屏幕批注工具，可以帮助教师便捷的进行快速批注，提高课堂时长利用率，未来将打造跨平台的一站式批注平台。
+> 版本：1.0.01 阿尼尔娜 Anirna
+
+SmartTeachPen 是一款适用于班级大屏的屏幕批注工具，可以帮助教师便捷的进行快速批注，提高课堂时长利用率。
+
+## ✨ 功能特性
+- 🖌️ 屏幕画笔批注，多颜色画笔、橡皮擦
+- 🖥️ 全局悬浮工具栏，授课时随时调出
+- ⚙️ 完整设置面板，内置「重新运行欢迎向导」选项
+- 🧩 插件系统基底，兼容类似 ClassIsland 的插件开发逻辑
+- 🌓 亮色/暗色主题切换，跟随系统主题
+- 📦 双发布渠道：正式版 / 预览版
+
+## 📌 开发计划
+- [x] 欢迎向导（OOBE）首次启动展示
+- [x] 基础画笔、画布绘制
+- [x] 插件架构基底
+- [ ] 截图保存批注内容
+- [ ] 更多画笔样式
+- [ ] 插件市场对接
+
+## 🤝 交流群
+点击上方横幅图片，加入QQ群【SmartTeachPen】，一起讨论开发、反馈问题！
+
+## 🛠️ 技术栈
+- 框架：Avalonia UI
+- 语言：C# .NET8
+- 开源协议：GNU General Public License v3.0
+
+## 📄 许可证
+本项目使用 **GPLv3** 开源协议。
+你可以自由使用、修改、分发本项目代码，但衍生作品也必须保持开源，详情查看 LICENSE 文件。
