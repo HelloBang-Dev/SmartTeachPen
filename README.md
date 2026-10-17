@@ -1,4 +1,4 @@
-[![Banner](https://raw.githubusercontent.com/HelloBang-Dev/SmartTeachPen/main/Assets/banner.png)](https://qun.qq.com/universal-share/share?ac=1&authKey=0s6HV%2BNEWZgB4idox%2FEctF9V0%2BYVFxLfD2w3pXKqtw3t86ydtF1Uj1osFYl0gA1m&busi_data=eyJncm91cENvZGUiOiIzNjM1MDc1MTAiLCJ0b2tlbiI6Ikd1U2JGeHlkRmNYamE2bG5WemhIUWFDY2JPWUV4eWs0VitianpPR2dZZDFOQ2FIVHltaFlwV1ppM2p4MWkyMDMiLCJ1aW4...)
+[![Banner](https://qm.qq.com/q/HWOfrFUKgU)
 # SmartTeachPen
 > 版本：1.0.01 阿尼尔娜 Anirna
 
