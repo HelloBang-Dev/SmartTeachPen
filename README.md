@@ -1,4 +1,4 @@
-[![Banner](https://qm.qq.com/q/HWOfrFUKgU)
+[![Banner](点击链接加入群聊【SmartTeachPen】：https://qm.qq.com/q/HWOfrFUKgU)
 # SmartTeachPen
 > 版本：1.0.01 阿尼尔娜 Anirna
 
